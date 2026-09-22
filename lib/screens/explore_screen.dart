@@ -106,7 +106,7 @@ class _ExploreScreenState extends State<ExploreScreen> {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                const Text('E Store',
+                const Text('E-Store',
                     style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
                 const SizedBox(height: 4),
                 const Text(
